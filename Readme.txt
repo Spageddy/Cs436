@@ -1,6 +1,4 @@
-Eduardo Martinez
-Network Simulation
-
+Network Simulation:
 
 Eduardo_Martinez.tcl -- tcl file
 througput_flowbyflow.awk -- throughput flow-by-flow awk file
